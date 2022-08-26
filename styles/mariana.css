@@ -1,0 +1,39 @@
+@import "./main.css";
+
+.table {
+    color: brown;
+    min-height: 400px;
+    min-width: 300px;
+    max-width: 400px;
+    margin-top: 100px;
+    padding: 30px;
+    font-size: 20px;
+    font-family: "Arial Narrow", Arial, sans-serif, monospace;
+    background-color: #f7f7f7;
+    box-shadow: #c7c0be 2px 2px 5px;
+    border-radius: 3px;
+    justify-content: center;
+}
+
+.list {
+    list-style-type: square;
+    /*list-style-position: inside;*/
+}
+
+ .tips{
+    display: flex;
+    justify-content: center;
+    color:brown;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 2px;
+    letter-spacing: normal;
+    background-color: #F7F7F7;
+    box-shadow: #0000005b 2px 2px 5px;
+   margin: 5px;
+   /* margin-left: 15px; */
+   border-radius: 5px;
+   padding: 2px;
+} 
+
+
